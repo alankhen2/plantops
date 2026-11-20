@@ -1,0 +1,21 @@
+gitignore
+# Dependencies (seperti vendor/ di Laravel)
+node_modules/
+
+# Environment variables (seperti .env di Laravel), JANGAN pernah di-commit
+.env
+.env*.local
+
+# Output build
+dist/
+.next/
+
+# Log
+npm-debug.log*
+
+# File editor/OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+CLAUDE.md
