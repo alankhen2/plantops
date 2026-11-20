@@ -1,4 +1,3 @@
-gitignore
 # Dependencies (seperti vendor/ di Laravel)
 node_modules/
 
